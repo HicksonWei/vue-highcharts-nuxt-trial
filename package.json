@@ -1,0 +1,21 @@
+{
+  "name": "my-first-nuxt-app",
+  "version": "1.0.0",
+  "description": "My kickass Nuxt.js project",
+  "author": "HicksonWei",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "highcharts": "^6.1.1",
+    "nuxt": "^1.0.0",
+    "vue2-highcharts": "^1.2.5"
+  },
+  "devDependencies": {
+    "cross-env": "^5.0.1"
+  }
+}
